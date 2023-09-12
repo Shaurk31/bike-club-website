@@ -5,7 +5,7 @@
 <div class="container h-screen h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5">
 		<h1 class="h1">Welcome to Cupertino High School Bike Club!</h1>
-		<p class="font-bold container h-full mx-auto flex justify-center items-center">{data.total_miles} total miles biked by {data.total_people} people on {data.total_rides} Rides
+		<p class="font-bold container h-full mx-auto flex justify-center items-center">{data.total_miles} total miles biked by {data.total_people} people on {data.total_rides} rides.
 		</p>
 		<p class="font-bold container h-full mx-auto flex justify-center items-center">Stay in the loop with our socials:</p>
 		<a href="https://www.instagram.com/cupertinobikeclub">
