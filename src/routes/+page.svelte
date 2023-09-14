@@ -13,7 +13,7 @@
 			<li><code class="code underline">@cupertinobikeclub</code> on instagram.</li>
 		</ul>
 		</a>
-		<a href="discord.gg/BS8ubqNjVY">
+		<a href="https://discord.gg/BS8ubqNjVY">
 		<ul class="container h-full mx-auto flex justify-center items-center">
 			<li><code class="code underline">discord.gg/BS8ubqNjVY</code> is our discord server.</li>
 		</ul>
